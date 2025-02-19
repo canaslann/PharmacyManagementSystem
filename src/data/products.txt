@@ -1,0 +1,8 @@
+D001,Parol,150,12.5,Painkiller
+D002,Aspirin,300,8.0,Painkiller
+D003,Augmentin,50,25.0,Antibiotic
+D004,Ventolin,200,18.5,Respiratory
+D005,Dolorex,100,15.0,Painkiller
+D006,Nexium,80,32.0,Stomach Medication
+D007,Zyrtec,110,17.5,Allergy
+D008,Arveles,400,20.0,Painkiller
